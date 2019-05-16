@@ -1,0 +1,10 @@
+# Ignore everything
+node_modules/*
+.idea
+
+# But not these files...
+!.gitignore
+!app
+!gulpfile.js
+!package.json
+# etc...
